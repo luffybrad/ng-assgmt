@@ -1,0 +1,30 @@
+{
+  "applications": [
+    {
+      "id": "1",
+      "name": "Alamin",
+      "email": "alamin@example.com",
+      "skills": [
+        "Angular",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Emmanuel",
+      "email": "emmanuelkipkoech@gmail.com",
+      "skills": [
+        "eating",
+        "programming"
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Brad",
+      "email": "brad@gmail.com",
+      "skills": [
+        "coding"
+      ]
+    }
+  ]
+}
